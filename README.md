@@ -54,4 +54,3 @@ doc/Manual.html	           the LAMMPS manual
 doc/Section_intro.html	   hi-level introduction to LAMMPS
 doc/Section_start.html	   how to build and use LAMMPS
 doc/Developer.pdf          LAMMPS developer guide
-
